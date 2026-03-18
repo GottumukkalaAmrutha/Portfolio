@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "GOTTUMUKKALA AMRUTHA",
+    "title": "M.B.A. - General Management 2026",
+    "summary": "M.B.A. candidate specializing in General Management with a strong foundation in Computer Science Engineering. Experienced in financial analysis, data visualization, and machine learning. Proven track record of academic excellence and leadership.",
+    "location": "IIM NAGPUR - 441108",
+    "email": "placements@iimnagpur.ac.in",
+    "phone": "0712-2870325",
+    "links": []
+  },
+  "experience": [
+    {
+      "company": "Opulence Infratech Private Limited",
+      "role": "Financial Analyst Intern",
+      "dates": "Apr 2025 - Jun 2025",
+      "location": "",
+      "bullets": [
+        "Prepared 5-year financial projections and CMA report for a 3 Cr restaurant loan, following RBI guidelines",
+        "Built Excel models to calculate IRR (18.5%), DSCR (1.46), and Payback Period (3.8 yrs) to test project viability",
+        "Performed sensitivity analysis and worked with the valuation team to include real-time land data",
+        "Assisted in client meetings and site visits, gathering inputs for revenue and cost assumptions",
+        "Gained end-to-end exposure to loan facilitation, documentation, and cross-functional coordination"
+      ]
+    },
+    {
+      "company": "Santript - The Mess Committee of IIM Nagpur",
+      "role": "Senior Executive Member",
+      "dates": "Batch 2024-2026",
+      "location": "IIM Nagpur",
+      "bullets": [
+        "Responsible for managing billing operations for over 600+ students, ensuring accuracy and efficiency",
+        "Conducted quality checks to ensure high food standards, supervising meal preparation and service for students"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "category": "Awards & Recognition",
+      "items": [
+        "Secured 6th place among B.Tech CSE students demonstrating top academic performance",
+        "Attained 2nd rank in the 2nd semester with an aggregate SGPA of 9.54 in B.Tech CSE"
+      ]
+    },
+    {
+      "category": "Competitions",
+      "items": [
+        "Won 1st place in Light Vocal Solo at YUVAMRITAM'20, representing my team Jyothirmayi during my B.Tech",
+        "Achieved 3rd place in an Oratorical Competition held in my 2nd year of B.Tech CSE"
+      ]
+    },
+    {
+      "category": "Publications",
+      "items": [
+        "Performance Evaluation of Movie-based Recommendation Systems using Hybrid Machine Learning Models",
+        "Presented at the 5th International Conference on Mobile Computing and Sustainable Informatics, ICMCSI 2024",
+        "Analyzed KNN, SVD, and hybrid models for accuracy and efficiency using the Netflix dataset",
+        "Demonstrated the Hybrid model's superiority and Matrix Factorization for personalized recommendations"
+      ]
+    },
+    {
+      "category": "Scholarships",
+      "items": [
+        "Received a 75% scholarship throughout all four years of B.Tech CSE for consistently maintaining a CGPA above 7.5"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Movie Recommendation system using content-based and collaborative-based filtering",
+      "stack": [
+        "Next.js",
+        "Vercel",
+        "Scipy",
+        "Flask",
+        "PyTorch",
+        "SVD",
+        "KNN",
+        "XGBoost"
+      ],
+      "bullets": [
+        "Developed a personalized movie recommendation system using content-based and collaborative filtering techniques",
+        "Utilized tools including Netflix dataset (100M+ ratings), Next.js, Vercel, Scipy, Flask, and PyTorch",
+        "Achieved superior recommendation accuracy with an RMSE of 1.0703 through descriptive analysis",
+        "Evaluated SVD, KNN, and XGBoost to identify the most accurate movie recommendation model"
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "group": "Financial & Business Analysis",
+      "items": [
+        "Financial Projections",
+        "CMA Reports",
+        "IRR/DSCR Calculation",
+        "Sensitivity Analysis",
+        "Valuation",
+        "MECE Framework",
+        "Market Entry Strategy",
+        "Cost Analysis",
+        "GTM Strategy",
+        "M&A Analysis",
+        "Financial Forecasting",
+        "DCF Valuation",
+        "Equity Research"
+      ]
+    },
+    {
+      "group": "Data & Tech",
+      "items": [
+        "Data Analysis",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Next.js",
+        "Vercel",
+        "Scipy",
+        "Flask",
+        "PyTorch",
+        "Machine Learning (SVD, KNN, XGBoost)"
+      ]
+    },
+    {
+      "group": "Methodologies",
+      "items": [
+        "Lean Six Sigma (Green Belt)",
+        "DMAIC",
+        "Agile Methodology",
+        "User Stories"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.B.A. - General Management",
+      "institute": "Indian Institute of Management, Nagpur",
+      "score": "Pursuing",
+      "year": "2026"
+    },
+    {
+      "degree": "B.Tech - CSE",
+      "institute": "Amrita School of Engineering",
+      "score": "89.7%",
+      "year": "2019 - 2023"
+    },
+    {
+      "degree": "CBSE - 12th",
+      "institute": "Kakatiya Public School",
+      "score": "91%",
+      "year": "2019"
+    },
+    {
+      "degree": "CBSE - 10th",
+      "institute": "Sri Chaitanya Techno School, Visakhapatnam",
+      "score": "95%",
+      "year": "2017"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Management Consulting Leadership Program",
+      "link": "",
+      "bullets": [
+        "Proficient in the MECE framework, Market Entry Strategy, Cost Analysis, and GTM Strategy",
+        "Executed Industry Analysis and Merger & Acquisition Analysis to assess the markets",
+        "Participated in Live Business Case Simulations and Guesstimates to enhance consulting skills"
+      ]
+    },
+    {
+      "name": "Finance Leadership Program",
+      "link": "",
+      "bullets": [
+        "Proficient in Forecasting Financial statements, DCF valuation, Discount rates, and Relative valuation",
+        "Analyzed companies using financial ratios and conducted thorough equity research"
+      ]
+    },
+    {
+      "name": "NISM-Series-V-A: Mutual Fund Distributors Certification",
+      "link": "",
+      "bullets": [
+        "Certified as an analyst, advisor and marketer of consumer financial products under SEBI Regulations, 2007",
+        "Learnt basics of equity, debt, NAV computation of mutual fund schemes and other asset classes",
+        "Learnt investment strategies, valuation, risk assessment and mitigation as an asset manager"
+      ]
+    },
+    {
+      "name": "Certified Business Analyst",
+      "link": "",
+      "bullets": [
+        "Certified in data analysis and visualization, skilled in converting complex data into actionable insights",
+        "Proficient in Power BI and Tableau, skilled in designing impactful and insightful dashboards"
+      ]
+    },
+    {
+      "name": "Lean Six Sigma: Green Belt",
+      "link": "",
+      "bullets": [
+        "Integrated LSS principles into digital transformation, driving process excellence and cultural change",
+        "Applied DMAIC framework and demonstrated data visualization, enhancing data-driven problem-solving",
+        "Mastered VOC to CTQ conversion and developed project charters and process maps, boosting efficiency"
+      ]
+    },
+    {
+      "name": "Excel Skills for Business",
+      "link": "",
+      "bullets": [
+        "Excel-based financial forecasting, including assumption modeling, P&L, cash flow, and output creation"
+      ]
+    },
+    {
+      "name": "Agile Methodology",
+      "link": "",
+      "bullets": [
+        "Applied Agile methodology and created user stories for Interplanetary idea-conferencing application"
+      ]
+    }
+  ],
+  "awards": [],
+  "extra": []
+}
